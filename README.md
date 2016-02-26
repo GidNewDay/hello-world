@@ -1,2 +1,2 @@
 # hello-world
-New repository for learning
+This changes were made for checking work of GitHub
